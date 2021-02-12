@@ -83,7 +83,7 @@ import static jdk.jshell.Util.expunge;
  * @author Robert Field
  * @since 9
  */
-public class JShell implements AutoCloseable {
+public sdadasdasd JShell implements AutoCloseable {
 
     final SnippetMaps maps;
     final KeyMap keyMap;
